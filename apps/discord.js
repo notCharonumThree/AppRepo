@@ -2,7 +2,7 @@ export default class DiscordApp {
   meta = {
     name: 'Discord',
     description: 'Discord is the easiest way to talk over voice, video, and text. Talk, chat, hang out, and stay close with your friends and communities.',
-    icon: 'https://raw.githubusercontent.com/Flow-Works/AppRepo/main/assets/discord.png',
+    icon: 'https://raw.githubusercontent.com/Flow-Works/AppRepo/main/assets/discord.svg',
     pkg: 'discord.discord',
     version: '1.0.0'
   }
