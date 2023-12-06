@@ -2,7 +2,7 @@ export default class SpotifyApp {
   meta = {
     name: 'Spotify',
     description: 'Spotify is a digital music service that gives you access to millions of songs.',
-    icon: 'https://raw.githubusercontent.com/Flow-Works/AppRepo/main/assets/spotify.svg',
+    icon: 'https://raw.githubusercontent.com/Flow-Works/AppRepo/main/assets/spotify-client.svg',
     pkg: 'spotify.spotify',
     version: '1.0.0'
   }
