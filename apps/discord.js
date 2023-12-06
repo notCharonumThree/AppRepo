@@ -12,7 +12,7 @@ export default class DiscordApp {
       title: this.meta.name,
       icon: this.meta.icon,
       width: 700,
-      height: 300
+      height: 500
     })
 
     const xor = {
