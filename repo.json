@@ -2,11 +2,11 @@
   "name": "Official FlowOS Repository",
   "apps": [
     {
-      "name": "Test",
-      "description": "A testing app.",
-      "pkg": "flow.test",
+      "name": "Discord",
+      "description": "Discord is the easiest way to talk over voice, video, and text. Talk, chat, hang out, and stay close with your friends and communities.",
+      "pkg": "discord.discord",
       "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/Flow-Works/AppRepo/main/test.js"
+      "url": "https://raw.githubusercontent.com/Flow-Works/AppRepo/main/apps/discord.js"
     }
   ]
 }
