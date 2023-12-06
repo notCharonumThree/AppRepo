@@ -47,7 +47,7 @@ export default class DiscordApp {
 
     win.content.style.background = 'var(--base)'
     win.content.innerHTML = `
-      <iframe src="/service/${xor.encode('https://discord.com')}" style="width: 100%;height: 100%;"/>
+      <iframe src="/service/${xor.encode('https://discord.com/app')}" style="width: 100%;height: 100%;border: none;"/>
     `
 
     return win
