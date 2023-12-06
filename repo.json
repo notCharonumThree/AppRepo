@@ -8,6 +8,14 @@
       "version": "1.0.0",
       "icon": "https://raw.githubusercontent.com/Flow-Works/AppRepo/main/assets/discord.svg",
       "url": "https://raw.githubusercontent.com/Flow-Works/AppRepo/main/apps/discord.js"
+    },
+    {
+      "name": "Spotify",
+      "description": "Spotify is a digital music service that gives you access to millions of songs.",
+      "pkg": "spotify.spotify",
+      "version": "1.0.0",
+      "icon": "https://raw.githubusercontent.com/Flow-Works/AppRepo/main/assets/spotify-client.svg",
+      "url": "https://raw.githubusercontent.com/Flow-Works/AppRepo/main/apps/spotify.js"
     }
   ]
 }
