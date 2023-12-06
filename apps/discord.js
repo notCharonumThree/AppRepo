@@ -2,6 +2,7 @@ export default class DiscordApp {
   meta = {
     name: 'Discord',
     description: 'Discord is the easiest way to talk over voice, video, and text. Talk, chat, hang out, and stay close with your friends and communities.',
+    icon: 'https://raw.githubusercontent.com/Flow-Works/AppRepo/main/assets/discord.png',
     pkg: 'discord.discord',
     version: '1.0.0'
   }
@@ -9,7 +10,7 @@ export default class DiscordApp {
   async open () {
     const win = window.wm.createWindow({
       title: this.meta.name,
-      icon: 'https://raw.githubusercontent.com/Flow-Works/AppRepo/main/assets/discord.png',
+      icon: this.meta.icon,
       width: 700,
       height: 300
     })
