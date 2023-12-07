@@ -48,7 +48,7 @@ export default class SpotifyApp {
 
     win.content.style.background = 'var(--base)'
     win.content.innerHTML = `
-      <iframe src="/service/${xor.encode('https://eaglercraft.com')}" style="width: 100%;height: 100%;border: none;"/>
+      <iframe src="/service/${xor.encode('https://eaglercraft.com/')}" style="width: 100%;height: 100%;border: none;"/>
     `
 
     return win
