@@ -15,7 +15,7 @@ jobs:
 
     - name: Get list of Markdown files
       run: |
-        cd blog-posts
+        cd apps
         files=($(ls *.js))
         json_array=()
         for file in "${files[@]}"
