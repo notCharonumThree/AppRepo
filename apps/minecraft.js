@@ -1,4 +1,4 @@
-export default class SpotifyApp {
+export default class MinecraftApp {
   meta = {
     name: 'Eaglercraft',
     description: 'Explore your own unique world, survive the night, and create anything you can imagine!',
