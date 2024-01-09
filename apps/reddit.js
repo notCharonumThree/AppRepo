@@ -1,4 +1,4 @@
-export default class SpotifyApp {
+export default class RedditApp {
   meta = {
     name: 'Reddit',
     description: 'Reddit is a network of communities where people can dive into their interests, hobbies and passions.',
