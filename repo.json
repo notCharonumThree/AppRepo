@@ -40,6 +40,14 @@
       "version": "1.0.0",
       "icon": "https://raw.githubusercontent.com/Flow-Works/AppRepo/main/assets/youtube.svg",
       "url": "https://raw.githubusercontent.com/Flow-Works/AppRepo/main/apps/youtube.js"
+    },
+    {
+      "name": "YouTube Music",
+      "description": "A new music service with official albums, singles, videos, remixes, live performances and more for Android, iOS and desktop.",
+      "pkg": "google.youtube-music",
+      "version": "1.0.0",
+      "icon": "https://raw.githubusercontent.com/Flow-Works/AppRepo/main/assets/youtube-music-desktop-app.svg",
+      "url": "https://raw.githubusercontent.com/Flow-Works/AppRepo/main/apps/youtube-music.js"
     }
   ]
 }
