@@ -32,6 +32,14 @@
       "version": "1.0.0",
       "icon": "https://raw.githubusercontent.com/Flow-Works/AppRepo/main/assets/reddit.svg",
       "url": "https://raw.githubusercontent.com/Flow-Works/AppRepo/main/apps/reddit.js"
+    },
+    {
+      "name": "YouTube",
+      "description": "Share your videos with friends, family, and the world.",
+      "pkg": "google.youtube",
+      "version": "1.0.0",
+      "icon": "https://raw.githubusercontent.com/Flow-Works/AppRepo/main/assets/youtube.svg",
+      "url": "https://raw.githubusercontent.com/Flow-Works/AppRepo/main/apps/youtube.js"
     }
   ]
 }
