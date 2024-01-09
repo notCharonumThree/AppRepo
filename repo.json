@@ -24,6 +24,14 @@
       "version": "1.0.0",
       "icon": "https://raw.githubusercontent.com/Flow-Works/AppRepo/main/assets/minecraft.svg",
       "url": "https://raw.githubusercontent.com/Flow-Works/AppRepo/main/apps/minecraft.js"
+    },
+    {
+      "name": "Reddit",
+      "description": "Reddit is a network of communities where people can dive into their interests, hobbies and passions.",
+      "pkg": "reddit.reddit",
+      "version": "1.0.0",
+      "icon": "https://raw.githubusercontent.com/Flow-Works/AppRepo/main/assets/reddit.svg",
+      "url": "https://raw.githubusercontent.com/Flow-Works/AppRepo/main/apps/reddit.js"
     }
   ]
 }
