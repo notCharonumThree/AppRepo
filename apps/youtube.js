@@ -1,4 +1,4 @@
-export default class RedditApp {
+export default class YouTubeApp {
   meta = {
     name: 'YouTube',
     description: 'Share your videos with friends, family, and the world.',
