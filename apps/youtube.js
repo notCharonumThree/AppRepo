@@ -2,7 +2,7 @@ export default class YouTubeApp {
   meta = {
     name: 'YouTube',
     description: 'Share your videos with friends, family, and the world.',
-    icon: 'https://raw.githubusercontent.com/Flow-Works/AppRepo/main/assets/yooutube.svg',
+    icon: 'https://raw.githubusercontent.com/Flow-Works/AppRepo/main/assets/youtube.svg',
     pkg: 'google.youtube',
     version: '1.0.0'
   }
