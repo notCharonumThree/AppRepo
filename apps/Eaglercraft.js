@@ -12,7 +12,7 @@ const Eaglercraft = {
     
     const win = wm.createWindow({
       title: 'Eaglercraft',
-      icon: Discord.config.icon,
+      icon: Eaglercraft.config.icon,
       width: 700,
       height: 500
     }, process)
