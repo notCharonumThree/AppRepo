@@ -11,8 +11,8 @@ const Discord = {
     const HTML = await process.loadLibrary('lib/HTML')
     
     const win = wm.createWindow({
-      title: this.meta.name,
-      icon: this.meta.icon,
+      title: 'Discord',
+      icon: Discord.config.icon,
       width: 700,
       height: 500
     }, process)
