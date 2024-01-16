@@ -1,8 +1,8 @@
-const YouTube = {
+const YouTubeMusic = {
   config: {
-    name: 'YouTube',
+    name: 'YouTube Music',
     type: 'process',
-    icon: 'https://raw.githubusercontent.com/Flow-Works/AppRepo/main/assets/youtube.svg',
+    icon: 'https://raw.githubusercontent.com/Flow-Works/AppRepo/main/assets/youtube-music-desktop-app.svg',
     targetVer: '1.0.0-indev.0'
   },
   run: async (process) => {
@@ -11,14 +11,14 @@ const YouTube = {
     const HTML = await process.loadLibrary('lib/HTML')
     
     const win = wm.createWindow({
-      title: 'YouTube',
-      icon: YouTube.config.icon,
+      title: 'YouTube Music',
+      icon: YouTubeMusic.config.icon,
       width: 700,
       height: 500
     }, process)
 
     new HTML('iframe').attr({
-      src: `/service/${xor.encode('https://youtube.com/')}`,
+      src: `/service/${xor.encode('https://music.youtube.com/')}`,
     }).style({
       width: '100%',
       height: '100%',
@@ -28,4 +28,4 @@ const YouTube = {
   }
 }
 
-export default YouTube
+export default YouTubeMusic
