@@ -2,7 +2,7 @@ const Spotify = {
   config: {
     name: 'Spotify',
     type: 'process',
-    icon: 'https://raw.githubusercontent.com/Flow-Works/AppRepo/main/assets/minecraft.svg',
+    icon: 'https://raw.githubusercontent.com/Flow-Works/AppRepo/main/assets/spotify-client.svg',
     targetVer: '1.0.0-indev.0'
   },
   run: async (process) => {
