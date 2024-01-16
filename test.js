@@ -1,22 +1,24 @@
-export default class TestApp {
-  meta = {
+const Test = {
+  config: {
     name: 'Test',
-    description: 'A testing app.',
-    pkg: 'flow.test',
-    version: '1.0.0'
-  }
+    type: 'process',
+    targetVer: '1.0.0-indev.0'
+  },
+  run: async (process) => {
+    const wm = await process.loadLibrary('lib/WindowManager')
+    const HTML = await process.loadLibrary('lib/HTML')
 
-  async open () {
-    const win = window.wm.createWindow({
+    const win = wm.createWindow({
       title: this.meta.name,
       icon: '',
       width: 700,
       height: 300
-    })
+    }, process)
 
     win.content.style.background = 'var(--base)'
-    win.content.innerHTML = 'Tester'
 
-    return win
+    new HTML('p').text('Hello World!').appendTo(win.content)
   }
 }
+
+export default Test
