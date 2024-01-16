@@ -22,7 +22,8 @@ const Reddit = {
     }).style({
       width: '100%',
       height: '100%',
-      border: 'none'
+      border: 'none',
+      background: 'white'
     }).appendTo(win.content)
   }
 }
