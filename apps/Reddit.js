@@ -12,7 +12,7 @@ const Reddit = {
     
     const win = wm.createWindow({
       title: 'Reddit',
-      icon: Discord.config.icon,
+      icon: Reddit.config.icon,
       width: 700,
       height: 500
     }, process)
