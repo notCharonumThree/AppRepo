@@ -17,7 +17,7 @@ const Discord = {
       height: 500
     }, process)
 
-    new HTML('iframe').attrs({
+    new HTML('iframe').attr({
       src: `/service/${xor.encode('https://discord.com/app/')}`,
     }).style({
       width: '100%',
