@@ -36,6 +36,12 @@
       "targetVer": "1.0.0-indev.0",
       "icon": "https://raw.githubusercontent.com/Flow-Works/AppRepo/main/assets/youtube-music-desktop-app.svg",
       "url": "https://raw.githubusercontent.com/Flow-Works/AppRepo/main/apps/YouTubeMusic.js"
+    },
+    {
+      "name": "movie-web",
+      "targetVer": "2.0.0",
+      "icon": "https://raw.githubusercontent.com/Flow-Works/AppRepo/main/assets/mplayer.svg",
+      "url": "https://raw.githubusercontent.com/Flow-Works/AppRepo/main/apps/Movies.js"
     }
   ]
 }
