@@ -28,4 +28,4 @@ const Movies = {
   }
 }
 
-export default YouTube
+export default Movies
