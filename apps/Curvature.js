@@ -323,3 +323,5 @@ const Curvature = {
     const tabsArray = []
   }
 }
+
+export default Curvature
