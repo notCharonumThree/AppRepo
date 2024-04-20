@@ -36,18 +36,6 @@
       "targetVer": "1.0.0-indev.0",
       "icon": "https://raw.githubusercontent.com/notCharonumThree/AppRepo/main/assets/youtube-music-desktop-app.svg",
       "url": "https://raw.githubusercontent.com/notCharonumThree/AppRepo/main/apps/YouTubeMusic.js"
-    },
-    {
-      "name": "movie-web",
-      "targetVer": "2.0.0",
-      "icon": "https://raw.githubusercontent.com/notCharonumThree/AppRepo/main/assets/mplayer.svg",
-      "url": "https://raw.githubusercontent.com/notCharonumThree/AppRepo/main/apps/Movies.js"
-    },
-    {
-      "name": "Arc Browser",
-      "targetVer": "2.0.0",
-      "icon": "https://cdn.jim-nielsen.com/ios/512/arc-search-2024-01-31.png",
-      "url": "https://raw.githubusercontent.com/Flow-Works/AppRepo/main/apps/Curvature.js"
     }
   ]
 }
