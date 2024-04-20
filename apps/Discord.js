@@ -16,10 +16,8 @@ const Discord = {
       width: 700,
       height: 500
     }, process)
-    window.navigator.serviceWorker.register(`./uv-sw.js?url=${encodeURIComponent(btoa(process.kernel.config.SERVER))}`, {
-    scope: '/a/'})
     new HTML('iframe').attr({
-      src: `${process.kernel.config['SERVER']}/a/${xor.encode('https://discord.com/app/')}`,
+      src: `/service/${xor.encode('https://discord.com/app/')}`,
     }).style({
       width: '100%',
       height: '100%',
