@@ -18,7 +18,7 @@ const Discord = {
     }, process)
 
     new HTML('iframe').attr({
-      src: `/service/${xor.encode('https://discord.com/app/')}`,
+      src: `${process.kernel.config['SERVER']}/a/${xor.encode('https://discord.com/app/')}`,
     }).style({
       width: '100%',
       height: '100%',
