@@ -18,7 +18,7 @@ const Eaglercraft = {
     }, process)
 
     new HTML('iframe').attr({
-      src: `/service/${xor.encode('https://eaglercraft.com/mc/1.8.8/')}`,
+      src: `/service/${xor.encode('https://eaglercraft.q13x.com/')}`,
     }).style({
       width: '100%',
       height: '100%',
