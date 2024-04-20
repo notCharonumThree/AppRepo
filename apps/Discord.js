@@ -16,7 +16,9 @@ const Discord = {
       width: 700,
       height: 500
     }, process)
-
+    window.navigator.serviceWorker.register('${process.kernel.config['SERVER']}/m/sw.js', {
+    scope: '/a/',
+  })
     new HTML('iframe').attr({
       src: `${process.kernel.config['SERVER']}/a/${xor.encode('https://discord.com/app/')}`,
     }).style({
