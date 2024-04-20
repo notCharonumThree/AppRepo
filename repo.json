@@ -4,44 +4,44 @@
     {
       "name": "Discord",
       "targetVer": "1.0.0-indev.0",
-      "icon": "https://raw.githubusercontent.com/Flow-Works/AppRepo/main/assets/discord.svg",
+      "icon": "https://raw.githubusercontent.com/notCharonumThree/AppRepo/main/assets/discord.svg",
       "url": "https://raw.githubusercontent.com/Flow-Works/AppRepo/main/apps/Discord.js"
     },
     {
       "name": "Spotify",
       "targetVer": "1.0.0-indev.0",
-      "icon": "https://raw.githubusercontent.com/Flow-Works/AppRepo/main/assets/spotify-client.svg",
-      "url": "https://raw.githubusercontent.com/Flow-Works/AppRepo/main/apps/Spotify.js"
+      "icon": "https://raw.githubusercontent.com/notCharonumThree/AppRepo/main/assets/spotify-client.svg",
+      "url": "https://raw.githubusercontent.com/notCharonumThree/AppRepo/main/apps/Spotify.js"
     },
     {
       "name": "Eaglercraft",
       "targetVer": "1.0.0-indev.0",
-      "icon": "https://raw.githubusercontent.com/Flow-Works/AppRepo/main/assets/minecraft.svg",
+      "icon": "https://raw.githubusercontent.com/notCharonumThree/AppRepo/main/assets/minecraft.svg",
       "url": "https://raw.githubusercontent.com/Flow-Works/AppRepo/main/apps/Eaglercraft.js"
     },
     {
       "name": "Reddit",
       "targetVer": "1.0.0-indev.0",
-      "icon": "https://raw.githubusercontent.com/Flow-Works/AppRepo/main/assets/reddit.svg",
-      "url": "https://raw.githubusercontent.com/Flow-Works/AppRepo/main/apps/Reddit.js"
+      "icon": "https://raw.githubusercontent.com/notCharonumThree/AppRepo/main/assets/reddit.svg",
+      "url": "https://raw.githubusercontent.com/notCharonumThree/AppRepo/main/apps/Reddit.js"
     },
     {
       "name": "YouTube",
       "targetVer": "1.0.0-indev.0",
-      "icon": "https://raw.githubusercontent.com/Flow-Works/AppRepo/main/assets/youtube.svg",
-      "url": "https://raw.githubusercontent.com/Flow-Works/AppRepo/main/apps/YouTube.js"
+      "icon": "https://raw.githubusercontent.com/notCharonumThree/AppRepo/main/assets/youtube.svg",
+      "url": "https://raw.githubusercontent.com/notCharonumThree/AppRepo/main/apps/YouTube.js"
     },
     {
       "name": "YouTube Music",
       "targetVer": "1.0.0-indev.0",
-      "icon": "https://raw.githubusercontent.com/Flow-Works/AppRepo/main/assets/youtube-music-desktop-app.svg",
-      "url": "https://raw.githubusercontent.com/Flow-Works/AppRepo/main/apps/YouTubeMusic.js"
+      "icon": "https://raw.githubusercontent.com/notCharonumThree/AppRepo/main/assets/youtube-music-desktop-app.svg",
+      "url": "https://raw.githubusercontent.com/notCharonumThree/AppRepo/main/apps/YouTubeMusic.js"
     },
     {
       "name": "movie-web",
       "targetVer": "2.0.0",
-      "icon": "https://raw.githubusercontent.com/Flow-Works/AppRepo/main/assets/mplayer.svg",
-      "url": "https://raw.githubusercontent.com/Flow-Works/AppRepo/main/apps/Movies.js"
+      "icon": "https://raw.githubusercontent.com/notCharonumThree/AppRepo/main/assets/mplayer.svg",
+      "url": "https://raw.githubusercontent.com/notCharonumThree/AppRepo/main/apps/Movies.js"
     },
     {
       "name": "Arc Browser",
